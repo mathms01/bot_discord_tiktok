@@ -1,7 +1,7 @@
-# bot_discord_tiktok
+# Bot discord python
 Base d'un bot discord connecté à l'api tiktok
 
-#Pré-requis
+# Pré-requis
 
 Télécharger python :
 https://www.python.org/downloads/
