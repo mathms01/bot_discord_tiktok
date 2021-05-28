@@ -39,7 +39,7 @@ async def getUser(ctx, user):
     await ctx.send(user)
 
 #lancement du bot
-bot.run("ODQ2MTQxMjg3OTc1NDg1NDgw.YKrMew.wx4x-GgYxDQmgoGS5AE78Xs4UwM")
+bot.run("your_token")
 
 
 
