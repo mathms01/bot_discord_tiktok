@@ -1,5 +1,7 @@
 #Bot discord pour récupérer des infos sur un compte tiktok
 #
+#replace token at line 43
+#
 #Créé par @edeme_ sur Tiktok
 
 #impots diverses
