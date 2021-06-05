@@ -10,6 +10,9 @@ from discord.ext import commands
 from TikTokApi import TikTokApi
 import nest_asyncio
 
+#REMPLACEZ LA VALEUR PAR VOTRE TOKEN D'API
+your_token = ""
+
 #initialisation de l'asynchrone
 nest_asyncio.apply()
 
@@ -41,7 +44,7 @@ async def getUser(ctx, user):
     await ctx.send(user)
 
 #lancement du bot
-bot.run("your_token")
+bot.run(your_token)
 
 
 
