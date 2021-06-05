@@ -1,6 +1,8 @@
 # Bot discord python
 Base d'un bot discord connecté à l'api tiktok
 
+/!\ N'oubliez pas de changer la variable your_token dans main.py avec votre token discord
+
 # Pré-requis
 
 Télécharger python :
