@@ -12,3 +12,6 @@ Dépendances :
 - py -3 -m playwright install
 - py -3 -m pip install -U nest-asyncio
 
+# Documentation
+- discord.py : https://discordpy.readthedocs.io/en/stable/api.html
+- TikTokApi : https://github.com/davidteather/TikTok-Api
