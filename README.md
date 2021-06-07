@@ -3,6 +3,12 @@ Base d'un bot discord connecté à l'api tiktok
 
 /!\ N'oubliez pas de changer la variable your_token dans main.py avec votre token discord
 
+# Discord developer
+
+Inscrivez-vous sur Discord developers portal.
+
+https://discord.com/developers/applications
+
 # Pré-requis
 
 Télécharger python :
